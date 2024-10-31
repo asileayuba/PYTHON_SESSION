@@ -22,12 +22,12 @@ This repository contains my Python class assignment, showcasing my understanding
    ```
 3. Run the main file:
    ```bash
-   python [name of file].py
+   python user_file.py
    ```
 
 ## Files
 
-- `[name of file].py`: The main code for the assignment.
+- `user_file.py`: The main code for the assignment.
 - `README.md`: Project documentation.
 
 ## License
